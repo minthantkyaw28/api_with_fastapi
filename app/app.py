@@ -63,4 +63,3 @@ todos=[
         "Activity":"Writting"
     },
 ]
-# chore: note 2024-07-11T09:44:33
